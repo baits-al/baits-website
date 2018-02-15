@@ -1,4 +1,4 @@
-ld]
+[build]
 publish = "public"
 command = "hugo"
 
@@ -21,3 +21,4 @@ HUGO_VERSION = "0.36.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
