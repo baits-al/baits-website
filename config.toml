@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Universal"
+title = "Baits"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
 languageCode = "en-us"
@@ -23,46 +23,28 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "About US"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 3
 
 # Top bar social links menu
 
 [[menu.topbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
     name = "Facebook"
     url = "http://facebook.com"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+    weight = 2
+    name = "LinkedIn"
+    url = "http://linkedin.com"
+    pre = "<i class='fa fa-2x fa-linkedin'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -71,7 +53,7 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     # style = "default"
@@ -96,7 +78,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "info@baits.al"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
@@ -105,17 +87,15 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>BAITS sh.p.k</strong>
+        <br>Kutia Postare 7434,
+        <br>Tirana,
         <br>
-        <strong>Great Britain</strong>
+        <strong>ALBANIA</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "41.3275"
+    longitude = "19.81889"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -123,9 +103,9 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contact us on: info@baits.al</p>
+      <p class="hidden-md hidden-lg">
+      <a href="mailto:info@baits.al" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
       """
 
@@ -152,16 +132,16 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
+    title = "SHOWCASES"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
+    title = "5 results from choosing BAITS"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "Find out"
 
 [params.clients]
     enable = true
@@ -172,6 +152,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
