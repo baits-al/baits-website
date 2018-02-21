@@ -137,11 +137,11 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "5 results from choosing BAITS"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Find out"
+    icon = "fa fa-volume-up"
+    title = "SHOWCASES"
+    subtitle = ""
+    link_url = "/blog"
+    link_text = "Read More"
 
 [params.clients]
     enable = true
