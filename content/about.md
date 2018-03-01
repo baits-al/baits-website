@@ -4,40 +4,22 @@ description = "Abous BAITS"
 keywords = ["ABOUT","baits","questions","what if"]
 +++
 
+---
 **We** started our journey on January 2012 while brainstorming on how to make things simple inside such a complex reality as the business & life reality in Albania. Humans in general, but Albanians even more aim to complicate things, starting from their routine up to the most important decisions of their life, certainly reflecting this, above all into the business reality.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 2. WHAT ARE THE POSTAL RATES?
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-
-## 3. DO YOU SEND OVERSEAS?
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+---
+> ##### When BAITS was created we had already experienced THE REALITY OF:
+* Being used but not compromised
+* Being responsible while receiving zero responsibility
+* Generating new ideas while seeing someone else take the credit
+* Increasing profitability while receiving the same salary
+* Long hours & overtime while treated as sharply 8-hour workers
+* Fighting the hard battles of negotiations but merely being accepted as the reason to the victory 
+* Giving as it was OURS but receiving as it was THEIRS
 
 ---
+We decided to sacrifice a part of us in order to create something which would be a part of each one, who is tired of that same reality. **This is how BAITS was born.**
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+☕ *And if you are at that same place in your life, reach out, let us know…we can at least share a cup of coffee with you and listen to your struggle.* ☕
+
+---
