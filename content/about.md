@@ -1,10 +1,10 @@
 +++
-title = "FAQ"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
+title = "Take BAITS and go fishing"
+description = "Abous BAITS"
+keywords = ["ABOUT","baits","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+**We** started our journey on January 2012 while brainstorming on how to make things simple inside such a complex reality as the business & life reality in Albania. Humans in general, but Albanians even more aim to complicate things, starting from their routine up to the most important decisions of their life, certainly reflecting this, above all into the business reality.
 
 ## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
 

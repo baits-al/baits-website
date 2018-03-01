@@ -24,7 +24,7 @@ paginate = 10
 
 [[menu.main]]
     name = "About US"
-    url  = "/faq/"
+    url  = "/about/"
     weight = 2
 
 [[menu.main]]
@@ -48,8 +48,8 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    author = "BAITS"
+    defaultKeywords = ["baits", "brain"]
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
@@ -80,7 +80,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = ""
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Where others see an <b>obstacle</b> we see an <b>opportunity</b>, where others see only <b>one option</b> we see <b>at least three</b>, because we know that there is always <b>another angle</b> and a <b>new point of view</b>.  We firmly believe that it is all a <b>matter of attitude</b> and for that all you need is to simply <u><b>take BAITS and go fishing</b></u>.</p>"
     copyright = "Copyright (c) 2018, BAITS; all rights reserved."
 
     # Format dates with Go's time formatting
