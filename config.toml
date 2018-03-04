@@ -78,7 +78,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = ""
+    #email = ""
 
     about_us = "<p>Where others see an <b>obstacle</b> we see an <b>opportunity</b>, where others see only <b>one option</b> we see <b>at least three</b>, because we know that there is always <b>another angle</b> and a <b>new point of view</b>.  We firmly believe that it is all a <b>matter of attitude</b> and for that all you need is to simply <u><b>take BAITS and go fishing</b></u>.</p>"
     copyright = "Copyright (c) 2018, BAITS; all rights reserved."
@@ -136,7 +136,7 @@ paginate = 10
     subtitle = ""
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-volume-up"
     title = "SHOWCASES"
     subtitle = ""

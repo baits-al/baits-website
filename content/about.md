@@ -14,7 +14,7 @@ keywords = ["ABOUT","baits","questions","what if"]
 * Generating new ideas while seeing someone else take the credit
 * Increasing profitability while receiving the same salary
 * Long hours & overtime while treated as sharply 8-hour workers
-* Fighting the hard battles of negotiations but merely being accepted as the reason to the victory 
+* Fighting the hard battles of negotiations but merely being accepted as the reason to the victory
 * Giving as it was OURS but receiving as it was THEIRS
 
 ---
