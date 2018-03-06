@@ -50,7 +50,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "BAITS"
     defaultKeywords = ["baits", "brain"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = ""
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyChYCQ30YVkPDhMNVVd8Xui79t_LGPqueA"
@@ -117,21 +117,12 @@ paginate = 10
 
 [params.carousel]
     enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
 
 [params.features]
     enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
 
 [params.testimonials]
     enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
     title = "5 results from choosing BAITS"
     subtitle = ""
 
@@ -145,13 +136,10 @@ paginate = 10
 
 [params.clients]
     enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
     title = "Our Clients"
     subtitle = ""
 
 [params.recent_posts]
     enable = false
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
