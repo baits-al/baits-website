@@ -80,7 +80,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     #email = ""
 
-    about_us = "<p>Where others see an <b>obstacle</b> we see an <b>opportunity</b>, where others see only <b>one option</b> we see <b>at least three</b>, because we know that there is always <b>another angle</b> and a <b>new point of view</b>.  We firmly believe that it is all a <b>matter of attitude</b> and for that all you need is to simply <u><b>take BAITS and go fishing</b></u>.</p>"
+    about_us = "<p>Where others see an <strong>obstacle</strong> we see an <strong>opportunity</strong>, where others see only <strong>one option</strong> we see <strong>at least three</strong>, because we know that there is always <strong>another angle</strong> and a <strong>new point of view</strong>.  We firmly believe that it is all a <strong>matter of attitude</strong> and for that all you need is to simply <u><strong>take BAITS and go fishing</strong></u>.</p>"
     copyright = "Copyright (c) 2018, BAITS; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -103,7 +103,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs"><u>Contact us on</u>: <b>info@baits.al</b></p>
+    text = """<p class="hidden-sm hidden-xs"><u>Contact us on</u>: <strong>info@baits.al</strong></p>
       <p class="hidden-md hidden-lg">
       <a href="mailto:info@baits.al" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
