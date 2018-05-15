@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rinor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.baits.al
+  * I am rinor (https://keybase.io/rinor) on keybase.
+  * I have a public key ASAAvyAwVxhzMf_w2JetGJXeI7lVFWwIBHNCSzarPvz6Xgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201198037ab1d79084e1913636b388434282ec992aeb632096e8eb675ee4d627ca0a",
+      "host": "keybase.io",
+      "kid": "012000bf203057187331fff0d897ad1895de23b955156c080473424b36ab3efcfa5e0a",
+      "uid": "d62577de45b3794519998809d929fe19",
+      "username": "rinor"
+    },
+    "merkle_root": {
+      "ctime": 1526392535,
+      "hash": "03de0a7c8d0bec65c643b83fdbc0d661df698480609cf16e791032b5b4931920eed24eff677d1636f0b97a3042559c22497def69498140d415c7a2a7fd47d0d6",
+      "hash_meta": "b9769e1fef6f8a527e534cc76be9f2dbee07fbf5afe457ef3403ce5b4f27f137",
+      "seqno": 2737319
+    },
+    "service": {
+      "entropy": "p4dIQaLJuB9XsNBifNVAdyia",
+      "hostname": "www.baits.al",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1526392555,
+  "expire_in": 504576000,
+  "prev": "669c17743e7a5e1efe46f605621fc6781f156d005ebef01037cc8f8fe8ceac3a",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAL8gMFcYczH/8NiXrRiV3iO5VRVsCARzQks2qz78+l4Kp3BheWxvYWTESpcCD8QgZpwXdD56Xh7+RvYFYh/GeB8VbQBevvAQN8yPj+jOrDrEICVALEklEiN9OCiqhfnnK6Lzm5EWulvsDezy7fD8PimyAgHCo3NpZ8RABpxtpJIABnO4R9Qp5vOY6cJxhHN8yuxXI7yrya5hwWTRi6xA3R0sATEmyZduqivFlPXHlhkFvY1ck8xs1iPXD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE/rD7fEfwwxO9ozHx68Hb/ne7qToo1dLwuRujvDsYUyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rinor
+
+==================================================================
